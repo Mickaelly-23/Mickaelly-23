@@ -1,12 +1,13 @@
 <h1>Amanda Mickaelly</h1>
-
-<p> Ensino Médio Completo</p>
-
-<p> Cursando Programador Web</p>
-
 <p> Morando em São Paulo do Potengi</p> :hearts:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
+<h2>Escolaridade</h2>
+<p> Ensino Médio Completo</p>
+
+<h3>Cursos</h3>
+<p> Cursando Programador Web</p>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
 
 <p> Fiz uma edição aqui em casa.</p> :hearts:
 
