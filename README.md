@@ -7,7 +7,7 @@
 <h3>Cursos</h3>
 <p> Cursando Programador Web</p>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width = "50px"/>
 
 <p> Fiz uma edição aqui em casa.</p> :hearts:
 
