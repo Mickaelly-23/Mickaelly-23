@@ -7,9 +7,13 @@
 <h2>Cursos</h2>
 <p> Cursando Programador Web</p>
 
+<div class = "icons">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width = "50px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+ </div>
 
-<h2>Habilidades</h2>
+<h2>Habilidades 🪄</h2>
 <p> Trabalho em equipe</p> 
 <p> Organização</p>
 <p>Competência para agir sob pressão</p>
