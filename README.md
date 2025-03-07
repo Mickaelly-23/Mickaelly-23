@@ -13,3 +13,4 @@
 <p> Trabalho em equipe</p> 
 <p> Organização</p>
 <p>Competência para agir sob pressão</p>
+       
